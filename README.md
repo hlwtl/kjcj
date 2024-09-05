@@ -13,7 +13,9 @@ qq空间采集 功能：
    3.2 自定义导出位置，指定导出到哪个txt文件中，已有数据的会自动续到最后面
    3.3 可自定义是否要自动导出，采集过程中自动导出符合要求的数据
 4.运行日志
-   显示软件运行状态![IMG_1723246950](https://github.com/user-attachments/assets/37c56a1c-6041-4b51-942b-3b420776b2f0)
-<img width="534" alt="IMG_2535" src="https://github.com/user-attachments/assets/3263af74-c779-403a-a0a2-1a6caa57c0ee">
-<img width="534" alt="IMG_2534" src="https://github.com/user-attachments/assets/442d8b84-df33-43cb-b215-6a6cb8de6dc2">
-<img width="534" alt="IMG_2533" src="https://github.com/user-attachments/assets/7a1cbde9-4622-46a3-9f36-f8de3abf5873">
+   显示软件运行状态!
+   <img width="534" alt="IMG_2535" src="https://github.com/user-attachments/assets/e8fbbf4d-6071-4bac-a913-96e1985f9cad">
+<img width="534" alt="IMG_2534" src="https://github.com/user-attachments/assets/672dd7db-35ba-4deb-a2a6-eaa559f07d64">
+<img width="534" alt="IMG_2533" src="https://github.com/user-attachments/assets/5c553375-84ac-41ca-80e4-844655339020">
+
+
